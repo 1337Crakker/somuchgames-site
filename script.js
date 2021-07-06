@@ -1,1 +1,1 @@
-window.location.replace("https://www.instagram.com/somuchgamez/")
+window.location.replace("https://www.instagram.com/somuchgames_official/")
