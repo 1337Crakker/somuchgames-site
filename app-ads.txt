@@ -1,3 +1,4 @@
+facebook.com, 121174696754188, RESELLER, c3e20eee3f780d68
 applovin.com, 89682ef2ce30f9f2d514b81b4c64722c, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
